@@ -9,8 +9,8 @@ from docx import Document
 from moviepy.editor import AudioFileClip
 from telegram.ext import CommandHandler
 
-openai.api_key = "sk-proj-Bu0vAYaeEhitEmEwVfg1T3BlbkFJnpnfoZxBXUDlUxcnuh4k"
-TELEGRAM_API_TOKEN = "6821104812:AAEAniIhSWUs2ps-oJP1xFDzBf5fnFVi7n0"
+openai.api_key = "your-api-key"
+TELEGRAM_API_TOKEN = "token"
 
 messages = [{"role": "system", "content": "You are SuperTelegramGPT, a helpful telegram bot who is always concise and polite in its answers."}]
 
