@@ -14,7 +14,7 @@ SuperTelegramGPT is a Telegram bot powered by OpenAI's GPT-3.5 model, designed t
 To use SuperTelegramGPT, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine.
-2. **Install Dependencies:** Install the necessary dependencies using `pip install -r requirements.txt`.
+2. **Install Dependencies:** 
 3. **Set Up API Keys:** Obtain API keys for OpenAI and Telegram Bot API. Replace `your-api-key` and `token` in the `main.py` file with your respective keys.
 4. **Run the Bot:** Execute `python main.py` to start the bot.
 5. **Start Interacting:** Start chatting with the bot on Telegram!
