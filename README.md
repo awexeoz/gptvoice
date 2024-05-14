@@ -24,10 +24,3 @@ To use SuperTelegramGPT, follow these steps:
 - Start a conversation with the bot by sending a text message or a voice message.
 - You can also upload documents (TXT, PDF, DOCX) to interact with the bot.
 
-## Contributing 🤝
-
-Contributions are welcome! If you have any ideas for improvement or new features, feel free to open an issue or submit a pull request.
-
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE).
